@@ -1,1 +1,3 @@
 # Text-Adventure-Game
+
+This program codded in C++ is a text-based survival game. The game takes place moments after a plane crash. The crash takes place 50 miles away from any civilization and the user/ player must trek through the mountains to retrieve help. During the journey, the player will encounter numerous items and a threat that could appear more than once. The items are vital and could help the player survive till the end. The player will battle threats and hopefully emerge victorious to continue the trek. If the player wins, ending stats will be uploaded to a text file called “endingstats”.txt. Try and survive and good luck on your journey.
